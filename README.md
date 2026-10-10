@@ -35,6 +35,7 @@ This project focuses on analyzing Amazon sales data using Microsoft Power BI to 
 ## 📌 Conclusion
 This project demonstrates practical Power BI skills by converting sales data into an interactive dashboard for business analysis. It is a portfolio project showcasing data analytics, visualization, and business intelligence capabilities.
 ## screenshot
+https://github.com/aakankshaparab0638-ai/amazon-sales-dashboard/blob/main/Screenshot%20of%20amazon%20sales.png
 
 
 
